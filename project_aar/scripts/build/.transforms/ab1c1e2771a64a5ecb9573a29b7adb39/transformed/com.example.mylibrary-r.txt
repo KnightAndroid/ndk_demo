@@ -1,0 +1,6 @@
+com.example.mylibrary
+id btn_decrypt
+id btn_encrypt
+id sample_text
+id tv_content
+layout activity_test
